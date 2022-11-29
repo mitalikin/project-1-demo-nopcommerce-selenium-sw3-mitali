@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75779c5f-2f23-44a4-b3d8-1cc5cf1640cb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I6YVsWL0ezRZMXtaiDtSRBedoB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kinmi/IdeaProjects/project-1-demo-nopcommerce-selenium-sw3-mitali/jars/selenium-server-4.6.0.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kinmi\IdeaProjects\project-1-demo-nopcommerce-selenium-sw3-mitali\jars" />
+      <recent name="C:\Users\kinmi\IdeaProjects\project-1-demo-nopcommerce-selenium-sw3-mitali\drivers" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Electronics" />
+      <recent name="utilities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ElectronicsTest.verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfully">
+    <configuration name="Electronics2.TestNameVerifyUserShouldNavigateToCellPhonesPageSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-1-demo-nopcommerce-selenium-sw3-mitali" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Electronics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Electronics" />
+      <option name="MAIN_CLASS_NAME" value="Electronics.Electronics2" />
+      <option name="METHOD_NAME" value="TestNameVerifyUserShouldNavigateToCellPhonesPageSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Electronics2.verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-1-demo-nopcommerce-selenium-sw3-mitali" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Electronics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Electronics" />
+      <option name="MAIN_CLASS_NAME" value="Electronics.Electronics2" />
+      <option name="METHOD_NAME" value="verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElectronicsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-1-demo-nopcommerce-selenium-sw3-mitali" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Electronics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Electronics" />
+      <option name="MAIN_CLASS_NAME" value="Electronics.ElectronicsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElectronicsTest.TestNameVerifyUserShouldNavigateToCellPhonesPageSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-1-demo-nopcommerce-selenium-sw3-mitali" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Electronics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Electronics" />
+      <option name="MAIN_CLASS_NAME" value="Electronics.ElectronicsTest" />
+      <option name="METHOD_NAME" value="TestNameVerifyUserShouldNavigateToCellPhonesPageSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElectronicsTest.verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-1-demo-nopcommerce-selenium-sw3-mitali" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Electronics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Electronics" />
+      <option name="MAIN_CLASS_NAME" value="Electronics.ElectronicsTest" />
+      <option name="METHOD_NAME" value="verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ElectronicsTest.verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfully" />
+        <item itemvalue="JUnit.Electronics2.verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfully" />
+        <item itemvalue="JUnit.Electronics2.TestNameVerifyUserShouldNavigateToCellPhonesPageSuccessfully" />
+        <item itemvalue="JUnit.ElectronicsTest.TestNameVerifyUserShouldNavigateToCellPhonesPageSuccessfully" />
+        <item itemvalue="JUnit.ElectronicsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75779c5f-2f23-44a4-b3d8-1cc5cf1640cb" name="Changes" comment="" />
+      <created>1669503528817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669503528817</updated>
+    </task>
+    <servers />
+  </component>
+</project>
